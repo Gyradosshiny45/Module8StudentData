@@ -1,0 +1,3 @@
+Student [name=Bella Carpenter, address=700 Happy Trail, gpa=2.8]
+Student [name=Mamas Tanner, address=900 Barking Dr, gpa=4.0]
+Student [name=Mikayla Faulkner, address=305 Funny Way, gpa=3.2]

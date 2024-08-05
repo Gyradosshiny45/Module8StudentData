@@ -1,0 +1,4 @@
+Student [name=Bella Carpenter , address=900 Oakwood Ln, gpa=2.3]
+Student [name=Mamas Adams, address=567 Zoomies Way, gpa=2.0]
+Student [name=Mikayla Faulkner, address=879 Funny Ln, gpa=3.5]
+Student [name=Zander Lillith, address=123 Pallet Town, gpa=4.0]
